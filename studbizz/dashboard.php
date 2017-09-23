@@ -10,7 +10,7 @@ $p_data = $admin->user_profile($p_idd);
 ?>
 <!DOCTYPE html>
 <html>
-<title>Dashboard</title>
+<title>Dashboard </title>
 <meta charset="UTF-8">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -283,7 +283,7 @@ function showForm(nm){
 <!-- Top container -->
 <div class="w3-bar w3-top w3-black w3-large" style="z-index:4;height:103px">
   <button class="w3-bar-item w3-button w3-hide-large w3-hover-none w3-hover-text-light-grey" onclick="w3_open();"><i class="fa fa-bars"></i>  Menu</button>
-  <span class="w3-bar-item w3-right">Welcome Pardeep</span>
+  <span class="w3-bar-item w3-right">Welcome User</span>
   <div class="">
                     <a class="navbar-brand" href="Frontpage.php"><img src="assets/images/logo.png" alt="Freelancer Logo" /></a>
 					</div>
