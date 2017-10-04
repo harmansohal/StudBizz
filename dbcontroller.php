@@ -1,9 +1,9 @@
 <?php
 class DBController {
 	private $host = "localhost";
-	private $user = "root";
-	private $password = "";
-	private $database = "user";
+	private $user = "jcubitgr_ict";
+	private $password = "123zxc";
+	private $database = "jcubitgr_studbiz";
 	private $conn;
 	
 	function __construct() {
